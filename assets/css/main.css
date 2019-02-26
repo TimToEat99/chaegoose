@@ -59,7 +59,7 @@
 /* Responsive */
 .responsive {
   width: 450px;
-  max-width: 70%; 
+  max-width: 85%; 
   height: auto;
 }
 
@@ -3645,7 +3645,6 @@
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
-		height: 100%;
 		text-align: center;
 	}
 
