@@ -58,8 +58,8 @@
 
 /* Responsive */
 .responsive {
-  width: 24%;
-  min-width: 550px
+  width: 450px;
+  max-width: 70%; 
   height: auto;
 }
 
